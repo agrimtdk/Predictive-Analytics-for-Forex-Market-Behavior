@@ -1,4 +1,4 @@
-# Predictive-Analytics-for-Forex-Market-Behavior
+                              # Predictive-Analytics-for-Forex-Market-Behavior
 A machine learning and deep learning based project for forecasting forex market trends using time series analysis and predictive analytics.
 # Predictive Analytics for Forex Market Behaviour
 
@@ -49,6 +49,7 @@ Note: Dataset is not included due to size constraints. Place your dataset in the
 - XGBoost Regressor
 - LightGBM Regressor
 
+
 ---
 
 ### Neural Network Models
@@ -57,6 +58,12 @@ Note: Dataset is not included due to size constraints. Place your dataset in the
 - Long Short-Term Memory (LSTM)
 - Gated Recurrent Unit (GRU)
 - Temporal Convolutional Network (TCN)
+
+---
+
+###Probabilistic Models
+-Quantile regression
+-Conformal prediction
 
 ---
 
