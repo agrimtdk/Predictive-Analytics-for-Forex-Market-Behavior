@@ -205,3 +205,39 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# ===============================
+# Project-specific (Forex ML)
+# ===============================
+
+# Data files (avoid large uploads)
+data/*.csv
+data/*.zip
+data/*.xlsx
+
+# Keep sample dataset if needed
+!data/sample.csv
+
+# Model files (large)
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.joblib
+
+# Results (keep only plots)
+results/*
+!results/plots/
+!results/plots/*.png
+
+# Outputs / logs
+outputs/
+*.log
+
+# Experiment tracking (optional)
+runs/
+wandb/
+mlruns/
