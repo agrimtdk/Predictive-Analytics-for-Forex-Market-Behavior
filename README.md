@@ -62,8 +62,8 @@ Note: Dataset is not included due to size constraints. Place your dataset in the
 ---
 
 ### Probabilistic Models
--Quantile regression
--Conformal prediction
+- Quantile regression
+- Conformal prediction
 
 ---
 
